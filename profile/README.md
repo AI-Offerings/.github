@@ -1,4 +1,4 @@
-# <AI-Offerings>
+# AI-Offerings
 Short one-liner about what lives here (tech, languages, purpose).
 
 - 🌐 Website: https://example.com
