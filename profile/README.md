@@ -1,4 +1,4 @@
-# <Your Org / Repo Name>
+# <AI-Offerings>
 Short one-liner about what lives here (tech, languages, purpose).
 
 - 🌐 Website: https://example.com
